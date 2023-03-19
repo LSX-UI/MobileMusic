@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
+    <router-link to="/">Home，master和main合并分支测试</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
   <router-view/>
